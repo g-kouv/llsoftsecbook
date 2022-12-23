@@ -1,8 +1,27 @@
-\contentsline {todo}{1. Add section describing the structure of the rest of the book.}{4}{section*.2}%
-\contentsline {todo}{2. Write chapter on memory vulnerabilities and mitigation.}{5}{section*.3}%
-\contentsline {todo}{3. Write chapter on physical access side channel attacks.}{6}{section*.4}%
-\contentsline {todo}{4. Define side channel better.}{7}{section*.5}%
-\contentsline {todo}{5. Write section on cache side channel attacks. See \href {https://github.com/llsoftsec/llsoftsecbook/pull/24\#issuecomment-930266031}{the first comment on PR24} for suggestions of what this should contain.}{8}{section*.6}%
-\contentsline {todo}{6. Write chapter with other security topics.}{9}{section*.7}%
-\contentsline {todo}{7. Write section on securely clearing memory in C/C++ and undefined behaviour.}{9}{section*.8}%
-\contentsline {todo}{8. Write chapter on contribution guidelines. These should include at least: project locaton on github; how to create pull requests/issues. Where do we discuss - mailing list? Grammar and writing style guidelines. How to use todos and index.}{10}{section*.10}%
+\contentsline {todo}{1. Add section describing the structure of the rest of the book.}{5}{section*.2}%
+\contentsline {todo}{2. Discuss threat models elsewhere in book and refer to that section here}{7}{section*.3}%
+\contentsline {todo}{3. Consider describing in more detail why the range limitation matters}{7}{section*.4}%
+\contentsline {todo}{4. The references in this section describe complicated modern exploits. Consider linking to simpler exploits, as well as some tutorial-level material.}{8}{section*.5}%
+\contentsline {todo}{5. Explain how these gadgets could result from C/C++ code. The current versions are slightly tweaked by hand to have more manageable offsets.}{14}{section*.7}%
+\contentsline {todo}{6. The gadgets in the figure are made up, chosen to highlight that each gadget can end in a different type of indirect control flow transfer instruction. Consider replacing them with more realistic ones.}{17}{section*.11}%
+\contentsline {todo}{7. Add more references to relevant research}{22}{section*.12}%
+\contentsline {todo}{8. Mention more Pointer Authentication uses in later section, and add link here}{22}{section*.13}%
+\contentsline {todo}{9. Consider adding a whole section on MTE and its applications}{26}{section*.15}%
+\contentsline {todo}{10. Describe other mechanisms for detecting memory errors, both software-based (static analysis, library and buffer hardening) and hardware-based, e.g. PAuth-based pointer integrity schemes, MTE etc}{27}{section*.16}%
+\contentsline {todo}{11. Write section on JIT compiler vulnerabilities}{27}{section*.17}%
+\contentsline {todo}{12. Also explain cache coherency ?}{31}{section*.20}%
+\contentsline {todo}{13. Also say something about TLBs and prefetching?}{31}{section*.21}%
+\contentsline {todo}{14. Should there be a more elaborate example with code that demonstrates in more detail how a flush+reload attack works?}{32}{section*.22}%
+\contentsline {todo}{15. Should we also discuss more "covert" channels here such as power analysis, etc?}{35}{section*.23}%
+\contentsline {todo}{16. Show a second example of cpu speculation that is not based on branch prediction.}{36}{section*.24}%
+\contentsline {todo}{17. Could we find a good reference that explains micro-architectural versus architectural state in more detail? Is "Computer Architecture: A Quantitative Approach" the best reference available?}{37}{section*.25}%
+\contentsline {todo}{18. Write section on transient execution attacks}{37}{section*.26}%
+\contentsline {todo}{19. Write section on site isolation as a SpectreV1 mitigation}{37}{section*.27}%
+\contentsline {todo}{20. Write chapter on physical access side-channel attacks.}{37}{section*.28}%
+\contentsline {todo}{21. Explain how these vulnerabilities arise and how to mitigate them.}{39}{section*.29}%
+\contentsline {todo}{22. This chapter should probably be moved under section 'Physical access side-channel attacks' higher-up}{40}{section*.30}%
+\contentsline {todo}{23. There is overlap with section timing-side-channels. How to best consolidate that?}{44}{section*.34}%
+\contentsline {todo}{24. Make the above reference to a paper use bibtex.}{45}{section*.36}%
+\contentsline {todo}{25. Write chapter with other security topics.}{46}{section*.37}%
+\contentsline {todo}{26. Write section on securely clearing memory in C/C++ and undefined behaviour.}{46}{section*.38}%
+\contentsline {todo}{27. Write chapter on contribution guidelines. These should include at least: project locaton on github; how to create pull requests/issues. Where do we discuss - mailing list? Grammar and writing style guidelines. How to use todos and index.}{47}{section*.40}%
