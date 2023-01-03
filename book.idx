@@ -1,3 +1,7 @@
+\indexentry{C|hyperpage}{6}
+\indexentry{C++|hyperpage}{6}
+\indexentry{C|hyperpage}{7}
+\indexentry{C++|hyperpage}{7}
 \indexentry{exploit primitive|hyperpage}{7}
 \indexentry{write primitive|hyperpage}{7}
 \indexentry{read primitive|hyperpage}{8}
@@ -5,6 +9,8 @@
 \indexentry{non-interactive (one-shot)   attack|hyperpage}{8}
 \indexentry{arbitrary code execution|hyperpage}{9}
 \indexentry{shellcode|hyperpage}{11}
+\indexentry{C|hyperpage}{12}
+\indexentry{C++|hyperpage}{12}
 \indexentry{shellcode|hyperpage}{13}
 \indexentry{gadget|hyperpage}{13}
 \indexentry{return-oriented programming (ROP)|hyperpage}{13}
@@ -14,12 +20,14 @@
 \indexentry{jump-oriented programming (JOP)|hyperpage}{15}
 \indexentry{dispatcher gadget|hyperpage}{15}
 \indexentry{counterfeit object-oriented programming (COOP)|hyperpage}{17}
+\indexentry{C++|hyperpage}{17}
 \indexentry{sigreturn-oriented programming (SROP)|hyperpage}{17}
 \indexentry{ASLR|hyperpage}{18}
 \indexentry{info leak|hyperpage}{18}
 \indexentry{CFI|hyperpage}{18}
 \indexentry{forward-edge CFI|hyperpage}{18}
 \indexentry{backward-edge CFI|hyperpage}{18}
+\indexentry{C++|hyperpage}{19}
 \indexentry{shadow stack|hyperpage}{20}
 \indexentry{Pointer Authentication|hyperpage}{20}
 \indexentry{pointer extension bits|hyperpage}{21}
@@ -29,8 +37,29 @@
 \indexentry{control data|hyperpage}{23}
 \indexentry{non-control data attacks|hyperpage}{23}
 \indexentry{data-only attacks|hyperpage}{23}
+\indexentry{C|hyperpage}{25}
+\indexentry{C++|hyperpage}{25}
+\indexentry{sanitizers|hyperpage}{25}
 \indexentry{fuzzing|hyperpage}{25}
+\indexentry{AddressSanitizer (ASan)|hyperpage}{25}
+\indexentry{GCC|hyperpage}{25}
+\indexentry{Clang|hyperpage}{25}
+\indexentry{shadow memory|hyperpage}{25}
+\indexentry{malloc|hyperpage}{25}
+\indexentry{free|hyperpage}{25}
+\indexentry{redzone|hyperpage}{25}
+\indexentry{fuzzing|hyperpage}{25}
+\indexentry{LeakSanitizer|hyperpage}{25}
+\indexentry{KASAN|hyperpage}{26}
+\indexentry{HWASAN|hyperpage}{26}
+\indexentry{AArch64|hyperpage}{26}
+\indexentry{Top-Byte Ignore (TBI)|hyperpage}{26}
+\indexentry{MemTagSanitizer|hyperpage}{26}
 \indexentry{Memory Tagging Extension (MTE)|hyperpage}{26}
+\indexentry{UBSan|hyperpage}{26}
+\indexentry{MemorySanitizer|hyperpage}{26}
+\indexentry{ThreadSanitizer|hyperpage}{27}
+\indexentry{GWP-ASan|hyperpage}{27}
 \indexentry{covert channel|hyperpage}{28}
 \indexentry{side-channel|hyperpage}{28}
 \indexentry{victim|hyperpage}{28}
